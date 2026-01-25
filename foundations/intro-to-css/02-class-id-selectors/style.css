@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.bg-red {
+    background-color: rgb(168, 86, 86);
+    font-family: "Verdana", "DejaVu San", "sans-serif";
+}
+
+.text-lg {
+    font-size: 24px;
+}
+
+#title2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#title4 {
+    background-color: rgb(122, 206, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
